@@ -9,6 +9,6 @@
 
 int main ()
 {
-  printf ("Hello C Programmers!");
+  printf ("Hola mundo.\n");
   return 0;
 }
