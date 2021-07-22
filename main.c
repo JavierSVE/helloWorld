@@ -9,7 +9,7 @@
 
 int main ()
 {
-  printf ("Hola mundo.\n");
+  printf ("Salut monde!\n");
   printf ("Comment ça va?\n");
   return 0;
 }
